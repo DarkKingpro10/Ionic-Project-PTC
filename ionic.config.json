@@ -1,0 +1,7 @@
+{
+  "name": "SmartBookkeeping",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
